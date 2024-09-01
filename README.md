@@ -1,7 +1,7 @@
   
 # Kuroro Ranch Bot
     
-Register :  https://t.me/KuroroRanchBot/ranch?startapp=ref-6C4A1E5B
+Register : https://t.me/KuroroRanchBot/ranch?startapp=ref-EC586521
 
 
 ## Installation
