@@ -130,7 +130,7 @@ def print_welcome_message():
     """)
     print(Fore.GREEN + Style.BRIGHT + "KURORO RANCH BOT")
     print(Fore.CYAN + Style.BRIGHT + "Jajanin dong orang baik :)")
-    print(Fore.YELLOW + Style.BRIGHT + "0x5bc0d1f74f371bee6dc18d52ff912b79703dbb54")
+    print(Fore.YELLOW + Style.BRIGHT + "0x38Ea722904f12aeD11502E7C0417b0c87957Eb91")
     print(Fore.RED + Style.BRIGHT + "Update Link: https://github.com/dcbott01/kuroro")
     print(Fore.BLUE + Style.BRIGHT + "Tukang Rename MATI AJA")
 
